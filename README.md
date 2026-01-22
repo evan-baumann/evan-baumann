@@ -4,9 +4,9 @@
 
 I am an aspiring researcher and quantitative analyst currently building my foundation in **Pure Mathematics** and **Theoretical Physics**. I have a strong background in computational modelling from my Leaving Certificate Applied Maths coursework and am now applying those skills to university-level problems.
 
-- 🔭 **Current Focus:** Linear Algebra, Calculus, Python for Sciences, & Mechanics.
-- 👯 **Interests:** Mathematical Modelling, Game Theory, & Data Analysis.
-- 🃏 **Strategic Interests:** I run a weekly **Probability & Poker** study group to apply statistical concepts to real-time decision making.
+- 🔭 **Current Focus:** Abstract Algebra, Linear Algebra, Calculus, Physcis, Python for Sciences, & Mechanics.
+- 👯 **Interests:** Mathematical Modelling, Game Theory, & Physics.
+- 🃏 **Strategic Interests:** I'm part of a **Probability & Poker** study group to apply statistical concepts to real-time decision making.
 
 ---
 
