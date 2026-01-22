@@ -18,6 +18,5 @@ I am an aspiring researcher and quantitative analyst currently building my found
 
 ---
 *Connect with me on [LinkedIn]*
-www.linkedin.com/in/
-evan-baumann-817673366
+www.linkedin.com/in/evan-baumann-817673366
 Vanity URL name
