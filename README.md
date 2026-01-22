@@ -17,4 +17,7 @@ I am an aspiring researcher and quantitative analyst currently building my found
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-*Connect with me on [LinkedIn](PUT YOUR LINKEDIN URL HERE)*
+*Connect with me on [LinkedIn]*
+www.linkedin.com/in/
+evan-baumann-817673366
+Vanity URL name
