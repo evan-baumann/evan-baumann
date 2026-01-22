@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Your Name]
+### Hi there 👋 I'm Evan Baumann
 **First Year Student @ University College Cork**
 *BSc Mathematical Sciences (Intending Joint Honours: Physics & Mathematics)*
 
