@@ -2,7 +2,7 @@
 **First Year Student @ University College Cork**
 *BSc Mathematical Sciences (Intending Joint Honours: Physics & Mathematics)*
 
-I am an aspiring researcher and quantitative analyst currently building my foundation in **Pure Mathematics** and **Theoretical Physics**. I have a strong background in computational modelling from my Leaving Certificate Applied Maths coursework and am now applying those skills to university-level problems.
+I am an aspiring researcher and quantitative analyst currently building my foundation in **Pure Mathematics** and **Physics**. I have a strong background in computational modelling from my Leaving Certificate Applied Maths coursework and am now applying those skills to university-level problems.
 
 - 🔭 **Current Focus:** Abstract Algebra, Linear Algebra, Calculus, Physcis, Python for Sciences, & Mechanics.
 - 👯 **Interests:** Mathematical Modelling, Game Theory, & Physics.
@@ -19,4 +19,3 @@ I am an aspiring researcher and quantitative analyst currently building my found
 ---
 *Connect with me on [LinkedIn]*
 www.linkedin.com/in/evan-baumann-817673366
-Vanity URL name
